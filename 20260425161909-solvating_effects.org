@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       3ff1fa05-272b-42bd-8715-63a81268c8af
+:END:
+#+title: Solvating Effects
+[[id:1a10a19d-430a-456c-ba63-57845d697b04][Acids/Bases]]
+* Solvating Effects
+- Sterically hindered species are less stable because they cannot interact with solvents
+  - /tert/-butoxide is less stable than ethoxide for this reason
+- Solvating effects are generally weaker than everything in ARIO

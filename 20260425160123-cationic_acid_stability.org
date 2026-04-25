@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       689e10d6-4d1c-4651-9076-2ffbf38edd0e
+:END:
+#+title: Cationic Acid Stability
+[[id:1a10a19d-430a-456c-ba63-57845d697b04][Acids/Bases]]
+
+* Cation stability
+- Only the A in ARIO ([[id:96641723-8644-4a3c-bbd0-51312e2d63e0][Anionic Base Stability (ARIO)]]) matters here
+- More electronegative atom with positive charge --> stronger acid
+  - Example: $NH_4^+$ is less acidic than $H_3O^+$
+- More stable conjugate base --> weaker acid
+  - Example: methylammonium ion is less acidic than aryl ammonium ion (resonance stabilized lone pair)

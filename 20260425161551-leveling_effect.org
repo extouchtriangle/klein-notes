@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       c6689a0a-56c6-4f9b-80c0-5635e015467a
+:END:
+#+title: Leveling Effect
+[[id:1a10a19d-430a-456c-ba63-57845d697b04][Acids/Bases]]
+* Leveling Effect
+- Strongest possible acid/base in solution is the conjugate acid/base of the solvent
+- Aprotic solvents like hexane and tetrahydrofuran (THF) are used for strong bases
