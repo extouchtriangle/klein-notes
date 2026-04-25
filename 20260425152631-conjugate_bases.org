@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       96641723-8644-4a3c-bbd0-51312e2d63e0
+:END:
+#+title: Anionic Base Stability (ARIO)
+[[id:1a10a19d-430a-456c-ba63-57845d697b04][Acids/Bases]]
+
+* ARIO: Anionic base stability
+Atom (A)
+- More electronegative atoms form more stable anions
+- In the same group, larger anions are more stable because they better stabilize the charge
+Resonance (R)
+- Delocalized/resonance-stabilized charges are more stable
+Induction (I)
+- Electron-withdrawing groups ($NO_2$, $X$) stablize anions
+Orbitals (O)
+- Orbitals with more $s$-character are more stable ($sp$ is more stable than $sp^2$)

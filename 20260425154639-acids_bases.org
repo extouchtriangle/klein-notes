@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       1a10a19d-430a-456c-ba63-57845d697b04
+:END:
+#+title: Acids/Bases
+[[id:252b25db-1e1a-448d-a323-4006db1a4ad8][Klein Organic Chem]]
+
+* Acids and Bases
+- Bronsted acids and bases are proton donors and acceptors
+- Lewis acids and bases are electron pair acceptors and donors
